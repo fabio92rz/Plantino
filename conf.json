@@ -1,38 +1,43 @@
 {
 	"plants":{
-		"name":"basil",
-		"minTemperature":2200,
-		"maxTemperature":2600,
-		"minHumidity":1,
-		"maxHumidity":1,
-		"maxLight":2,
-		"minLight":3
+		"basil":{
+			"name":"basil",
+			"minTemperature":2200,
+			"maxTemperature":2600,
+			"minHumidity":1,
+			"maxHumidity":1,
+			"maxLight":2,
+			"minLight":3
 		},
-		{
-		"name":"basil",
-		"minTemperature":2200,
-		"maxTemperature":2600,
-		"minHumidity":1,
-		"maxHumidity":1,
-		"maxLight":2,
-		"minLight":3
+
+		"oregano":{
+			"name":"oregano",
+			"minTemperature":2200,
+			"maxTemperature":2600,
+			"minHumidity":1,
+			"maxHumidity":1,
+			"maxLight":2,
+			"minLight":3
 		},
-		{
-		"name":"basil",
-		"minTemperature":2200,
-		"maxTemperature":2600,
-		"minHumidity":1,
-		"maxHumidity":1,
-		"maxLight":2,
-		"minLight":3
+
+		"sage":{
+			"name":"sage",
+			"minTemperature":2200,
+			"maxTemperature":2600,
+			"minHumidity":1,
+			"maxHumidity":1,
+			"maxLight":2,
+			"minLight":3
 		},
-		{
-		"name":"basil",
-		"minTemperature":2200,
-		"maxTemperature":2600,
-		"minHumidity":1,
-		"maxHumidity":1,
-		"maxLight":2,
-		"minLight":3
+
+		"spinach":{
+			"name":"spinach",
+			"minTemperature":2200,
+			"maxTemperature":2600,
+			"minHumidity":1,
+			"maxHumidity":1,
+			"maxLight":2,
+			"minLight":3
 		}
+	}
 }
