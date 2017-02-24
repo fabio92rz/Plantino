@@ -6,7 +6,7 @@ def bash_command(cmd):
 	subprocess.Popen(cmd, shell=True)
 
 plantName = "basil"
-conn = sqlite3.connect('plantino_record')
+conn = sqlite3.connect('plantino_record') #path da cambiare, mettere nella sd
 
 with open ('data.json') as plants_file:
 	data = json.load(plants_file)
