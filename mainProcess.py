@@ -1,6 +1,7 @@
-import sys, time
-from daemon import Daemon
+#!/usr/bin/env python
+
 import subprocess, time, sys, sqlite3, json
+from daemon import Daemon
 
 def bash_command(cmd):
 	subprocess.Popen(cmd, shell=True)
